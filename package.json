@@ -1,0 +1,13 @@
+{
+  "name": "lata-house",
+  "version": "1.0.0",
+  "description": "Monorepo with all Lata House automations http://instagram.com/lata.house/",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
